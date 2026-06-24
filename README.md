@@ -1,4 +1,5 @@
 # Sales-Performance-Analysis-with-SQL
+SQL analysis of retail sales data covering product performance, customer behaviour, YoY trends and store analytics
 ## Project Overview
 The objective of this analysis is to identify key factors influencing sales performance across products, customers, suppliers, store locations, and time periods. Using SQL, the project uncovers actionable insights that support revenue optimization, operational efficiency, and strategic decision-making.
 
